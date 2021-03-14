@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-image: url(".img/left.svg"), url(".img/right.svg");
+    background-image: url("assets/img/left.svg"), url("assets/img/right.svg");
     background-position: left bottom, right bottom;
     background-repeat: no-repeat, no-repeat;
     background-size: 20vw auto, 30vw, auto;
@@ -22,7 +22,7 @@ div.header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url(".img/r2p.svg");
+    background-image: url("assets/img/r2p.svg");
     background-position: 1vw, 2vw;
     background-repeat: no-repeat;
     background-size: 7vw auto;
